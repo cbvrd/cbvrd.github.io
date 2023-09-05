@@ -3,3 +3,7 @@ body{
     background-color: rgb(217, 142, 240);
     text-align: center;
 }
+p{
+    text-decoration-color: aqua;
+    text-align: center;
+}
