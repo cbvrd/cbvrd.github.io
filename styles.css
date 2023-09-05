@@ -3,3 +3,8 @@ body{
     background-image: url("./main/purplestars.gif");
     text-align: center;
 }
+
+.container-content {
+    text-align: center;
+    position: relative;
+  }
