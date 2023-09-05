@@ -1,29 +1,5 @@
 body{
     margin: 0;
+    background-color: rgb(217, 142, 240);
     text-align: center;
 }
-
-.container-content {
-    text-align: center;
-    position: relative;
-  }
-  h1 {
-    font-size: 46px;
-    color: #ffffff
-  }
-  p {
-    font-size: 28px;
-    color: #ffffff
-  }
-  .header {
-    position: relative;
-    padding: 30px 0;
-  }
-  .container-bg {
-  position: absolute;
-  top: 0;
-  bottom: -60px;
-  right: 0;
-  left: 0;
-  background-image:url("./main/purplestars.gif");
-  }
